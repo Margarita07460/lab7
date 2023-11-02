@@ -1,0 +1,5 @@
+﻿  lb7.cpp
+C:\Users\Маргарита\Desktop\lab7\lb7\lb7.cpp(35,4): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Маргарита\Desktop\lab7\lb7\lb7.cpp(69,4): warning C4552: "+": результат выражения не используется
+C:\Users\Маргарита\Desktop\lab7\lb7\lb7.cpp(118,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lb7.vcxproj -> C:\Users\Маргарита\Desktop\lab7\lb7\x64\Debug\lb7.exe
